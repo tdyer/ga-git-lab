@@ -56,9 +56,12 @@
 - Fork this repo. (github.com/tdyer/ga-git-lab).
 - Create a directory named TomRepo and change into this directory.
 - Clone this repo into the TomRepo directory.
+- 
 ### Add remote reference to the repo you've forked from.
+
 ### Make a pull request to upstream repo.
 - Add another entry to in the github_cheat.md to describe git clone.
+
 ### Install SourceTree and redo the above.
 - Remove directory ga-git-<yourgithubname>-lab.
 - Do all the above steps before the Fork this repo from me step above.

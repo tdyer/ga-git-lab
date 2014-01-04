@@ -15,7 +15,7 @@
 
 ###Activity:
 #### Create a git repo, add and commit.
-  - Create a directory ga-git-<yourgithubname>-lab
+  - Create a directory ga-git-yourgithubname-lab
   - Change into this directory.
   - Create a file github_cheat.md
   - git init, add and commit this file.
@@ -37,7 +37,7 @@
 - View all the remotes in verbose mode.
 
 #### Push to github.
-- Create a github account and push this local repo ga-git-<yourgithubname>-lab.
+- Create a github account and push this local repo ga-git-yourgithubname-lab.
 
 #### Use git to show differences between branches
 - Diff the master branch with more-commands branch.
@@ -56,14 +56,14 @@
 - Fork this repo. (github.com/tdyer/ga-git-lab).
 - Create a directory named TomRepo and change into this directory.
 - Clone this repo into the TomRepo directory.
-- 
+
 ### Add remote reference to the repo you've forked from.
 
-### Make a pull request to upstream repo.
+### Make a pull request to the upstream repo.
 - Add another entry to in the github_cheat.md to describe git clone.
 
-### Install SourceTree and redo the above.
+### Install [SourceTree](http://www.sourcetreeapp.com/) and redo the above.
 - Remove directory ga-git-<yourgithubname>-lab.
 - Do all the above steps before the Fork this repo from me step above.
 
-### Hints:
+
